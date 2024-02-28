@@ -9,3 +9,7 @@
 ## 示例程序使用方式
 
 下载该仓库，在 demo 目录中可以找到程序压缩包，在 JAKA App 编程页面导入程序即可。
+
+## How to use the demo program
+
+Download the repository, find the zip file in the demo directory, and import the program in the JAKA App programming page.
