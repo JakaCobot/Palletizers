@@ -1,17 +1,16 @@
-# 码垛工艺包 | palletizers AddOn
+# 码垛工艺包 
 
-**该仓库包含了 JAKA 码垛工艺包的使用指南和示例程序。**
-**This repository contains guides and demo programmes for the JAKA Palletising Packages.**
+**该仓库提供了 JAKA 码垛工艺包使用指南和示例程序。**
+
 
 [中文手册](https://github.com/JakaCobot/Palletizers/wiki/%E7%A0%81%E5%9E%9B%E5%B7%A5%E8%89%BA%E5%8C%85%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 
-[English manual](https://github.com/JakaCobot/Palletizers/wiki/Palletizers-user-manual)
+[English Readme](./README_EN.md)
 
 ## 插件信息
 
 * 名称：Palletizers
-* 版本：v1.7.1
-* 作者：JAKA
+* 版本：v1.8.1
 * 描述：该 AddOn 适用于使用 JAKA 机器人进行码垛任务时使用。
 * 兼容性：同时支持 JAKA 控制器 1.7.0 及 1.7.1 版本。
 
@@ -39,9 +38,24 @@
    
 <div align="center"><img width="800"  src="https://github.com/JakaCobot/Palletizers/blob/main/img/找到指令.png"/></div>
 
-## 示例程序使用方式 | How to use the demo program
+## 示例程序使用方式 
 
 下载该仓库，在 demo 目录中可以找到程序压缩包，在 JAKA App 编程页面导入程序即可。
 
-Download the repository, find the zip file in the demo directory, and import the program in the JAKA App programming page.
 
+## 版本升级
+
+兼容码垛工艺包 v1.5.3 及以上版本直接升级，按照下面的升级步骤，您将可以保留原有的垛型数据：
+
+1. 使机器人处于下使能状态
+2. 使码垛工艺包处于关闭状态
+3. 上传新版本码垛工艺包
+4. 重启 JAKA App
+5. 如果是平板等移动设备，请清理 App 的缓存后在打开页面。
+
+码垛工艺包v1.5.3 以下的版本不能兼容升级，请删除原有版本后再安装新版本。
+
+
+## 问题及 BUG 反馈 
+
+您可以在我们的 Github 仓库中提交 [issue](https://github.com/JakaCobot/Palletizers/issues) 和 [参与讨论](https://github.com/JakaCobot/Palletizers/discussions)。
