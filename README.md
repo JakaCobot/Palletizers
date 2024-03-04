@@ -6,11 +6,7 @@
 
 码垛工艺包基于 JAKA AddOn 平台 2.0 开发。由“工艺包配置页面”和“码垛指令块”两部分组成。通过工艺包配置页面，用户可以轻松的对垛型和码垛相关参数进行配置，而“码垛指令块”则可以在JAKA APP编程页面中和其他指令块搭配编程，完成各种码垛的程序。
 
-<div align="center">
-<video width="1000" controls autoplay >
-<source src="./img/使用展示.mp4" type="video/mp4">
-</video>
-</div>
+<div align="center"><img width="800"  src="./img/使用展示.gif"/></div>
 
 **基础码垛指令块**
 
@@ -40,9 +36,11 @@
     App：v1.7.0.24 及以上  
  
 * 系统要求（1.7.1）：
-    控制器：v1.7.1.24 以上  
+    控制器：v1.7.1.24_x64 以上  
     App：v1.7.1.24 及以上  
     JAKA-AddOn-Kit：v1.4 及以上 
+    
+        提示：JAKA-AddOn-Kit 版本号 与 System_AddOn 版本号一致。
 
 ## 安装指南
 
