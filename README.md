@@ -6,7 +6,7 @@
 
 码垛工艺包基于 JAKA AddOn 平台 2.0 开发。由“工艺包配置页面”和“码垛指令块”两部分组成。通过工艺包配置页面，用户可以轻松的对垛型和码垛相关参数进行配置，而“码垛指令块”则可以在JAKA APP编程页面中和其他指令块搭配编程，完成各种码垛的程序。
 
-<div align="center"><img width="800"  src="./img/使用展示.gif"/></div>
+https://github.com/JakaCobot/Palletizers/assets/89619125/bdf118a8-320f-4ed2-9bda-902a6cc1d1ee
 
 **基础码垛指令块**
 
