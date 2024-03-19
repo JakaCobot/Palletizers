@@ -9,7 +9,7 @@
 ## Plugin Information
 
 * Name: Palletizers
-* Version: v1.8.1
+* Version: v1.8.2
 * Description: This AddOn is used for palletizing tasks with JAKA robots.
 * Compatibility: Supports JAKA controllers versions 1.7.0 and 1.7.1 simultaneously.
 
