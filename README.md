@@ -27,7 +27,7 @@ https://github.com/JakaCobot/Palletizers/assets/89619125/bdf118a8-320f-4ed2-9bda
 ## 插件信息
 
 * 名称：Palletizers
-* 版本：v1.8.1
+* 版本：v1.8.2
 * 描述：该 AddOn 适用于使用 JAKA 机器人进行码垛任务时使用。
 * 兼容性：同时支持 JAKA 控制器 1.7.0 及 1.7.1 版本。
 
