@@ -1,4 +1,8 @@
 # Palletizing Process Package
+**!!! The new palletizing package has been released on the Coboπ v2 platform, and this warehouse is no longer maintained!!! **
+
+---
+
 
 *Note:The following content is a machine-translated version. Please refer to it with caution. The human-reviewed version will be updated later.*
 
